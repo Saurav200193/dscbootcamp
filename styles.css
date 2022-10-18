@@ -1,0 +1,26 @@
+body{ background-color: #DFF6FF;}
+
+img{ height: 200px;}
+
+.react{ height: 50px;
+    margin-inline-start: auto;
+}
+.angular{
+height: 50px;
+width: 50px;
+margin-inline-start: auto;
+}
+
+hr{ 
+    border-color: grey;
+    border-style:none;
+    border-top-style: dotted;
+    border-width:5px;
+    width:5%}
+
+h1{
+    color:#000080;
+}
+h3{
+    color:#000080;
+}
